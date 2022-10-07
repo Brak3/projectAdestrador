@@ -43,7 +43,7 @@ public class classeAdestrador {
                 "1-Latir | -2 Energia\n" +
                 "2-Andar | -1 Energia\n" +
                 "3-Pular | -3 Energia\n" +
-                "4-Sentar | +2 Energia\n" +
+                "4-Sentar| +2 Energia\n" +
                 "5-Ficar | +1 Energia\n" +
                 "6-Dar recompensa | +5 Energia\n" +
                 "7-Executar comandos");

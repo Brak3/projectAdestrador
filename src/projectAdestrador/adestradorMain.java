@@ -6,8 +6,5 @@ public class adestradorMain {
         int varControl = 1;
         treinador.iniciarTreinamento(varControl);
 
-
-
-
     }
 }
